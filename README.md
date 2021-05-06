@@ -14,3 +14,6 @@ and boooooom
 
 for linux you can run\
 ./build.sh
+
+
+oh i forgot this only work on linux NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
