@@ -2,6 +2,7 @@
 i can finally says I MADE THIS IN C++ WOHOOOOOOOOOOOOO
 
 this is just an experiment of me messing around with c++
+there is also precommpiled header if you want to use it
 
 # compile
 just cd to the directory\
