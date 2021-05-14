@@ -5,6 +5,7 @@ this is just an experiment of me messing around with c++
 there is also precompiled header setup if you want to use it
 
 # compile
+you need to have sfml installed on your system\
 just cd to the directory\
 run\
 make\
