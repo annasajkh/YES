@@ -13,10 +13,10 @@ int main()
 
     for (unsigned int i = 0; i < circles.size(); i++)
     {
-        circles[i] = std::unique_ptr<Circle>(new Circle(std::rand() % size.x,std::rand() % size.y,10, 
-                                                        new sf::Color(  std::rand() % 255,
-                                                                        std::rand() % 255,
-                                                                        std::rand() % 255,255)));
+        circles[i] = std::unique_ptr<Circle>(   new Circle(std::rand() % size.x,std::rand() % size.y,10, 
+                                                new sf::Color(  std::rand() % 255,
+                                                std::rand() % 255,
+                                                std::rand() % 255,255)));
     }
     
 
